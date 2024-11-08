@@ -21,8 +21,5 @@ This project analyzes hotel data to derive insights into occupancy rates, revenu
 2. Install necessary Python packages.
 3. Run the script to load and analyze the data.
 
-## Exercises
-The project includes exercises for further learning on data exploration and cleaning.
-
 ## Conclusion
 This analysis provides detailed insights into AtliQ Hotels' operations and helps in strategic decision-making.
